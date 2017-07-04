@@ -18,11 +18,6 @@ namespace ConsoleApplication1
     }
     class Program
     {
-        public Program()
-        {
-
-        }
-
         static void Main(string[] args)
         {
             Sample obj = new Sample();
